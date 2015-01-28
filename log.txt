@@ -12,6 +12,13 @@ Start: Mon, 27 Jan 2015 00:00:00, -0700
 End: Mon, 27 Jan 2015 01:20:00, -0700
 Tasks: Nearly completed implementations of functions.js, tested with qunit_runner.html.
 
+Start: Mon, 26 Jan 2015 11:00:00, -0700
+End: Tues, 27 Jan 2015 01:00:00, -0700
+Tasks: debugged and finished functions.js.
+
+Start: Tues, 27 Jan 2015 01:00:00, -0700
+End: Tues, 27 Jan 2015 02:00:00, -0700
+Tasks: Stared objects.js and reviewed Assignment 4 requirements.
 
 git log --pretty=format:"%h %ad\"%s\"" --date=rfc
 

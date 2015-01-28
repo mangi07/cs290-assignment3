@@ -88,5 +88,5 @@ function parseGit(logArray) {
 		gitLogArr[i] = new GitLog(h, d, m);
 	}
 	return gitLogArr;
-};
+}
 //end your code
